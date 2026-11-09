@@ -3,8 +3,11 @@
 Trilha prática para implementar um endpoint seguindo os cinco arquivos modulares da API.
 
 ## Como começar
+1. Clone o repositório para uma pasta vazia.
+2. Abra index.html no navegador.
+3. Leia a introdução do mini-curso e aproveite a capacitação!
 
-Abra index.html no navegador. A introdução apresenta Hono, contextualiza suas vantagens em relação ao Express e permite explorar as responsabilidades dos arquivos. Os oito módulos seguem em ordem. Os exercícios trazem questões diagnósticas e desafios com alternativas embaralhadas, explicação imediata, placar e opção de refazer.
+- A introdução apresenta Hono, contextualiza suas vantagens em relação ao Express e permite explorar as responsabilidades dos arquivos. Os oito módulos seguem em ordem. Os exercícios trazem questões diagnósticas e desafios com alternativas embaralhadas, explicação imediata, placar e opção de refazer.
 
 Faça primeiro a tentativa prática e consulte o projeto de referência depois. A pasta desafio contém enunciado, critérios e checklist.
 
