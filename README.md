@@ -19,13 +19,6 @@ Faça primeiro a tentativa prática e consulte o projeto de referência depois. 
 7. artigo.test.ts: integração com Vitest.
 8. Projeto prático: PATCH /artigos/:id/status.
 
-## Roteiro sugerido — 3h30
-
-| Etapa | Duração |
-| --- | ---: |
-| Introdução e Hono | 45 min |
-| Zod e schemas | 45 min |
-| Responsabilidades dos arquivos e prática guiada | 60 min |
-| Projeto prático individual | 60 min |
-
+### Disclaimer:
+- Está é uma versão inicial majoritariamente construída com agentic coding. Considere um protítipo utilizável
 ##### by luiis
